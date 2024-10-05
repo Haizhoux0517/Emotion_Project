@@ -1,0 +1,6 @@
+1. Implement dataset balancing function and dataset preprocessing function.
+2. Design DistilBERT-BiGRU model architecture.
+3. Train and evaluate the proposed model and got 95.51% on testing data (+2.81% compared to fine-tuned DistilBERT and +1.69% compare to fine-tuned BiGRU).
+4. Illustrate visual result in notebook.
+5. Improve check.py for evaluating model on other testing dataset.
+6. Write user manual or testing instruction.
