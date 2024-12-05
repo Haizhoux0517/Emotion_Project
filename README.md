@@ -2,8 +2,6 @@
 
 `pip install -r requirements.txt`
 
-2. Download our model from SFU Vault: [distilbert-bigru-emotion.pt](https://vault.sfu.ca/index.php/s/XfnXASxEY5bc9H9).
-
 3. Or build the model in your machine by running `distilbert_bigru.py`. 
 
     - The whole process will take for around 15 hours：there are 5 epochs in total, and the model (from the epoch with the best validation loss) will be saved in the `projects` directory.
